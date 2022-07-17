@@ -1,0 +1,9 @@
+*.o
+abt
+gbn
+sr
+grader/*
+!grader/advanced_tests
+!grader/basic_tests
+!grader/sanity_tests
+!grader/run_experiments
